@@ -1,14 +1,29 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{ 
+   "Sucursales":[ 
+      { 
+         "DireccionSucursal":"Colonia centro 2425, Cdmx",
+         "NombreSucursal":"Sucursal 1",
+         "TelefonoSucursal":"55-58-68-12-25"
+      },
+      { 
+         "DireccionSucursal":"Lugar ficticio 2425, Cdmx",
+         "NombreSucursal":"Sucursal 2",
+         "TelefonoSucursal":"55-58-13-12-25"
+      },
+      { 
+         "DireccionSucursal":"direccion 2425, Cdmx",
+         "NombreSucursal":"Sucursal 3",
+         "TelefonoSucursal":"55-58-16-15-25"
+      },
+      { 
+         "DireccionSucursal":"Chapultepec calle 2425, Cdmx",
+         "NombreSucursal":"Sucursal 4",
+         "TelefonoSucursal":"55-58-88-77-25"
+      },
+      { 
+         "DireccionSucursal":"Tlatelolco 2425, Cdmx",
+         "NombreSucursal":"Sucursal 5",
+         "TelefonoSucursal":"55-58-23-55-25"
+      }
+   ]
 }
